@@ -8,7 +8,7 @@ git clone [link]
 git clone https://github.com/Gonzalo8642/git.git 
 ```
 
-#How to pull updates
+# How to pull updates
 What does this mean? Pulling means to get any updates from the master repo.
 We do this using the pull command.
 ```
@@ -18,7 +18,7 @@ git pull
 // Example
 git pull
 ```
-#How to commit a change
+# How to commit a change
 What does this mean? How to upload your change to the master file.
 First we must add all files that have been edited. To do this we use the add command.
 ```
