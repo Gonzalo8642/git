@@ -1,5 +1,5 @@
 # How to clone a repo
-What does this mean? Cloning a repo just means copying the folder on to your desktop.
+What does this mean? Cloning a repo just means copying the folder (repo) on to your desktop.
 ```
 // Command syntax 
 git clone [link]
